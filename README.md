@@ -1,4 +1,4 @@
-<h1>Hello there, I'm Patrick: Lead Senior Scientist (Analytical Chemistry - Pharmaceuticals)
+<h1>Hello there, I'm Patrick! Lead Senior Scientist (Analytical Chemistry - Pharmaceuticals)
 <h2>👨‍💻 IT Homelab Environment:<h2>
 
   
