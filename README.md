@@ -1,5 +1,5 @@
-<h1>Hello there, I'm Patrick! Lead Senior Scientist (Analytical Chemistry - Pharmaceuticals)
-<h2>👨‍💻 IT Homelab Environment:<h2>
+<h1>Hello there, I'm Patrick! Lead Senior Scientist (Analytical Chemistry - Pharmaceuticals)<h1>
+  <h2>👨‍💻 IT Homelab Environment:<h2>
 
   
   - Active Directory set up (https://github.com/bandethmedia/LabURL
