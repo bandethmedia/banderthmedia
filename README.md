@@ -2,7 +2,7 @@
   <h2>👨‍💻 IT Homelab Environment:<h2>
 
   
-  - Active Directory set up (https://github.com/bandethmedia/LabURL
+  - Active Directory set up (https://github.com/bandethmedia/https://github.com/bandethmedia/ActiveDirectoryLab.git)
   - Networking with two computers
   - Creating Installation media from OS update
   
